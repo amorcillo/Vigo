@@ -1,2 +1,4 @@
 realizo el primer cambio
 hago el segundo cambio (¿funcionará?)
+prueba con el gráfico
+prueba contexto
